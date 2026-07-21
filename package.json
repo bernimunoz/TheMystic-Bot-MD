@@ -104,5 +104,8 @@
   },
   "devDependencies": {
     "eslint": "^9.37.0"
+  },
+  "overrides": {
+    "@types/node": "20.11.30"
   }
 }
